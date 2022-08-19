@@ -2,6 +2,7 @@
 This is a project I did as a part of my Mathematics course of Probability and Statistics at my college Indraprastha Institutre of Information Technology, Delhi.
 
 The python project uses mathplotlib and numpy to help me plot the graphs.
+
 STEPS FOLLOWED WHILE CODING:
 - hard coded a list consisting of thirty numbers
 - found the average(mean), standard deviation and variance of the data set. 
