@@ -8,6 +8,6 @@ STEPS FOLLOWED WHILE CODING:
 - found the average(mean), standard deviation and variance of the data set. 
 - expanded my code to be able to find the average(mean), standard deviation and variance of the data set upto the i(th) number
 - made functions to help me calculate the gaussian and exponential function of the data set.
-- used the values acquired in the previous steps to plot graphs and visualize the distribution curves.
+- plot a relative frequency line graph of your data (if you prefer using the frequencies instead of relative frequencies, that is also fine). Plot a graph of the exponential and normal pdfs using the sample mean and variance you have computed (of all 30 observations), as parameters. Decide which one matches better.
 
 Using python to create a project like this helped me further my undrestanding of the course and helped me visualize the data set.
