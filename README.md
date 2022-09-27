@@ -1,5 +1,5 @@
 # Probability-and-Statistics-
-This is a project I did as a part of my Mathematics course of Probability and Statistics at my college Indraprastha Institutre of Information Technology, Delhi.
+This is a project I did as a part of my Mathematics course of Probability and Statistics at my college Indraprastha Institute of Information Technology, Delhi.
 
 The python project uses mathplotlib and numpy to help me plot the graphs.
 
